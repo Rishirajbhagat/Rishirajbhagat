@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=RISHI%20RAJ%20BHAGAT&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Materials%20Engineering%20@%20IIT%20Jodhpur%20%7C%20Minor in Management%20&%20Space%20Tech&descAlignY=55&descAlign=60&fontColor=white" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=RISHI%20RAJ%20BHAGAT&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Materials%20Engineering%20@%20IIT%20Jodhpur%20%7C%20Minor%20in%20Management&descAlignY=55&descAlign=60&fontColor=white" width="100%"/>
 </div>
 
 <div align="center">
