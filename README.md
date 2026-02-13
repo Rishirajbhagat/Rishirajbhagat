@@ -22,28 +22,20 @@
 
 ### 👋 The Logic Behind the Code
 
-Hey — I’m Rishi Raj Bhagat, a 3rd‑year Materials Engineering student at IIT Jodhpur. I’m passionate about building data‑driven systems that bridge theory and hardware, and I enjoy tackling open‑ended problems that require both rigorous modeling and practical engineering. My core data science strengths include Natural Language Processing, Transformer architectures, deep learning (CNNs, RNNs, attention mechanisms), Generative Adversarial Networks (GANs), Gaussian processes, probabilistic modeling, Bayesian inference, transfer learning, representation learning, and practical experience with PyTorch, TensorFlow, and scikit‑learnI’m comfortable with feature engineering, embeddings, tokenization, sequence modeling, hyperparameter tuning, and robust model evaluation. 
+Materials Engineering undergraduate at IIT Jodhpur driven by curiosity and a desire to turn ideas into working solutions. Passionate about learning through building, exploring data-driven models, and applying engineering principles to real-world problems. Enjoys tackling open-ended challenges, growing through hands-on projects, and continuously pushing beyond comfort zones with honesty, discipline, and purpose.
 
-In AIoT and embedded systems I work on sensor interfacing, microcontrollers (ARM/AVR), real‑time data acquisition, edge inference techniques such as quantization and model compression, latency–accuracy tradeoffs, and control fundamentals like PID design and state estimation. In the core electrical domain I focus on circuit analysis, PCB prototyping, signal conditioning, ADC/DAC workflows, hardware–software co‑design, power and control systems, and designing secure, resilient architectures for networked devices. 
+Skilled in applying computational and analytical methods to real-world problems, combining theoretical understanding with practical implementation. Experience includes building predictive models for financial time-series data, designing sensor-based real-time monitoring systems using microcontrollers, and optimizing software systems with efficient data structures and database integration. Familiar with scientific computing, data analysis, and visualization using NumPy, SciPy, Matplotlib, and MATLAB.
 
-
-
-- 🔭 **Currently Working On:** Project based on YOLO, Backend Development, Frontend Reactjs .
-- 🔬 **Interests:** AI/ML, Embedded Systems, Cybersecurityand Space Tech.
----
+Possesses a strong foundation in core engineering principles through coursework in programming, data structures, artificial intelligence, machine learning, signals and systems, and materials for energy conversion and storage. Demonstrates the ability to work on open-ended problems, contribute effectively in team-based projects, and take responsibility in technical and organizational roles.
 
 
 ### 🚀 Projects & Research
 
 | **Project** | **What it is** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **🛡️ Network Intrusion Detection** | A robust security system using ML to classify network traffic and detect anomalies in real-time. | `Python` `Scikit-Learn` `Pandas` `CyberSec` |
-| **📉 FiberFreqNet — Image‑Driven Frequency Estimation** | Deep Learning applied to **Plastic Optical Fiber (POF)** data. Analyzes signal patterns for classification. | `PyTorch` `Deep Learning` `Signal Proc` |
-| **🛰️ Orbital Debris Risk Analysis** | Assessing collision risks for **574,000+ objects**. Built a dual-inference AI model (Space Debris Conference). | `Python` `PyTorch` `Optuna` `Stats` |
-| **⚙️ Satellite Reaction Wheel** | High-precision stabilization system. Integrated **mechanical dynamics with embedded C++**. | `C++` `Embedded` `PID` `SolidWorks` |
-| **🌳 Memory-Optimized ID3** | Decision tree classifier built from scratch. Optimized memory structure to cut execution time by **15%**. | `C++` `Algorithms` `Memory Mgmt` |
-| **💻 CPU Cache Simulator** | Direct-mapped cache simulator. Tracks hit/miss ratios and evictions to visualize architecture. | `C++` `Systems` `Architecture` |
-
+| **🛡️ INR–USD Exchange Rate Prediction** | Time-series forecasting model using historical exchange rate data (2019–2023) to predict INR–USD trends up to 90 days ahead. | `Python` `Keras` `TensorFlow` `LSTM` |
+| **📉 Banking Efficiency Optimization using Deque-Based Caching** |Python-based banking system with secure user authentication, transaction handling, and performance optimization using caching. | `Python` `C++` `MySQL` `Data Structures`|
+| **🛰️ Exploration of Material Properties using First-Principles Tools** | Visualization and structural modeling of unit cells, slabs, and supercells for materials analysis using crystallographic data. | `Vesta` `Materials Modelling`|
 > *Check my [Repositories](https://github.com/Rishi Raj Bhagat?tab=repositories) to see the code.*
 
 ---
