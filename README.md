@@ -36,7 +36,7 @@ Possesses a strong foundation in core engineering principles through coursework 
 | **🛡️ INR–USD Exchange Rate Prediction** | Time-series forecasting model using historical exchange rate data (2019–2023) to predict INR–USD trends up to 90 days ahead. | `Python` `Keras` `TensorFlow` `LSTM` |
 | **📉 Banking Efficiency Optimization using Deque-Based Caching** |Python-based banking system with secure user authentication, transaction handling, and performance optimization using caching. | `Python` `C++` `MySQL` `Data Structures`|
 | **🛰️ Exploration of Material Properties using First-Principles Tools** | Visualization and structural modeling of unit cells, slabs, and supercells for materials analysis using crystallographic data. | `Vesta` `Materials Modelling`|
-> *Check my [Repositories](https://github.com/Rishi Raj Bhagat?tab=repositories) to see the code.*
+> *Check my [Repositories](https://github.com/RishiRajBhagat?tab=repositories) to see the code.*
 
 ---
 ## 📈 Contribution Stats & Analytics
@@ -57,17 +57,6 @@ Possesses a strong foundation in core engineering principles through coursework 
 
 </div>
 
-### 🧩 Technical Stats
-
-<div align="center">
-<br/>
-
-<!-- <a href="https://leetcode.com/sh ivyadav1936/"> -->
-<!-- <img src="https://leetcard.jacoblin.cool/shivyadav1936?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" /> -->
-</a>
-
-</div>
-
 ---
 
 
@@ -85,7 +74,7 @@ Possesses a strong foundation in core engineering principles through coursework 
 ### 📬 Let's Connect
 
 <div align="center">
-  <a href="https://in.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/rishi-raj-bhagat-76071628a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:">
