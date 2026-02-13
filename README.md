@@ -77,7 +77,7 @@ Possesses a strong foundation in core engineering principles through coursework 
   <a href="https://www.linkedin.com/in/rishi-raj-bhagat-76071628a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:">
+  <a href="mailto:b23mt1034@iitj.ac.in">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
