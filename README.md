@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=RISHI%20RAJ%20BHAGAT&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Materials%20Engineering%20@%20IIT%20Jodhpur%20%7C%20AIoT%20&%20Space%20Tech&descAlignY=55&descAlign=60&fontColor=white" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=RISHI%20RAJ%20BHAGAT&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Materials%20Engineering%20@%20IIT%20Jodhpur%20%7C%20Minor in Management%20&%20Space%20Tech&descAlignY=55&descAlign=60&fontColor=white" width="100%"/>
 </div>
 
 <div align="center">
   
   <a href="https://github.com/Rishi Raj Bhagat">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=338294&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+AI%2FML+Developer;Materials+Engineering+(Minor+in+Management);;Student+@+IIT+Jodhpur;Solving+Real-World+Problems+with+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=338294&center=true&vCenter=true&width=550&lines=Materials+Engineering+(Minor+in+Management);;Student+@+IIT+Jodhpur;Solving+Real-World+Problems+with+Code" alt="Typing SVG" />
   </a>
 
 </div>
@@ -14,7 +14,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,fastapi,npm,mongodb,mysql,redis,git,gmail,github,docker,postman,aws,linux,ubuntu,arduino,opencv,pytorch,tensorflow,sklearn,anaconda&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,git,github,linux,ubuntu,arduino,opencv,pytorch,tensorflow,sklearn&perline=8" />
 </p>
 
 <br>
