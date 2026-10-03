@@ -1,83 +1,87 @@
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=RISHI%20RAJ%20BHAGAT&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Materials%20Engineering%20@%20IIT%20Jodhpur%20%7C%20Minor%20in%20Management&descAlignY=55&descAlign=60&fontColor=white" width="100%"/>
-</div>
+<h1 align="center">Rishi Raj Bhagat</h1>
 
-<div align="center">
-  
-  <a href="https://github.com/Rishi Raj Bhagat">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=338294&center=true&vCenter=true&width=550&lines=Materials+Engineering+(Minor+in+Management);;Student+@+IIT+Jodhpur;Solving+Real-World+Problems+with+Code" alt="Typing SVG" />
-  </a>
-
-</div>
-
----
-
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,git,github,linux,ubuntu,arduino,opencv,pytorch,tensorflow,sklearn&perline=8" />
+  <b>Materials Engineering @ IIT Jodhpur</b> &nbsp;·&nbsp; Minor in Management
+  <br>
+  <sub>Machine learning &nbsp;·&nbsp; Embedded sensing &nbsp;·&nbsp; Computational materials</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishi-raj-bhagat-76071628a"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
+  <a href="mailto:b23mt1034@iitj.ac.in"><img src="https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=gmail&logoColor=2DD4BF" alt="Email" /></a>
+  <a href="https://github.com/RishiRajBhagat?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0B1220?style=flat-square&logo=github&logoColor=2DD4BF" alt="Repositories" /></a>
 </p>
 
 <br>
 
+### About
 
-### 👋 The Logic Behind the Code
+Materials Engineering undergraduate at **IIT Jodhpur**, minoring in Management. I work where engineering meets computation: forecasting time-series data, building sensor-driven monitoring systems on microcontrollers, and modelling crystal structures from first principles.
 
-Materials Engineering undergraduate at IIT Jodhpur driven by curiosity and a desire to turn ideas into working solutions. Passionate about learning through building, exploring data-driven models, and applying engineering principles to real-world problems. Enjoys tackling open-ended challenges, growing through hands-on projects, and continuously pushing beyond comfort zones with honesty, discipline, and purpose.
+> Currently studying machine learning, signals & systems, and materials for energy conversion and storage.
+> **Open to internships** in data science, ML and computational materials.
 
-Skilled in applying computational and analytical methods to real-world problems, combining theoretical understanding with practical implementation. Experience includes building predictive models for financial time-series data, designing sensor-based real-time monitoring systems using microcontrollers, and optimizing software systems with efficient data structures and database integration. Familiar with scientific computing, data analysis, and visualization using NumPy, SciPy, Matplotlib, and MATLAB.
+<br>
 
-Possesses a strong foundation in core engineering principles through coursework in programming, data structures, artificial intelligence, machine learning, signals and systems, and materials for energy conversion and storage. Demonstrates the ability to work on open-ended problems, contribute effectively in team-based projects, and take responsibility in technical and organizational roles.
+### Selected work
 
+<!-- Replace REPO-NAME in each link with the actual repository name -->
 
-### 🚀 Projects & Research
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>INR–USD Forecasting</h4>
+      <sub>LSTM model trained on 2019–2023 exchange-rate data, forecasting INR–USD movement up to 90 days ahead.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=2DD4BF" />
+      <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=2DD4BF" />
+      <br><br>
+      <a href="https://github.com/RishiRajBhagat/REPO-NAME">View code →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Banking System with Caching</h4>
+      <sub>Banking backend with authentication and transactions, using a deque-based cache to cut repeated database reads.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/C++-1E293B?style=flat-square&logo=cplusplus&logoColor=2DD4BF" />
+      <img src="https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=2DD4BF" />
+      <br><br>
+      <a href="https://github.com/RishiRajBhagat/REPO-NAME">View code →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>First-Principles Materials</h4>
+      <sub>Construction and visualisation of unit cells, slabs and supercells from crystallographic data for structural analysis.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/VESTA-1E293B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Crystallography-1E293B?style=flat-square" />
+      <br><br>
+      <a href="https://github.com/RishiRajBhagat/REPO-NAME">View code →</a>
+    </td>
+  </tr>
+</table>
 
-| **Project** | **What it is** | **Tech Stack** |
-| :--- | :--- | :--- |
-| **🛡️ INR–USD Exchange Rate Prediction** | Time-series forecasting model using historical exchange rate data (2019–2023) to predict INR–USD trends up to 90 days ahead. | `Python` `Keras` `TensorFlow` `LSTM` |
-| **📉 Banking Efficiency Optimization using Deque-Based Caching** |Python-based banking system with secure user authentication, transaction handling, and performance optimization using caching. | `Python` `C++` `MySQL` `Data Structures`|
-| **🛰️ Exploration of Material Properties using First-Principles Tools** | Visualization and structural modeling of unit cells, slabs, and supercells for materials analysis using crystallographic data. | `Vesta` `Materials Modelling`|
-> *Check my [Repositories](https://github.com/RishiRajBhagat?tab=repositories) to see the code.*
+<br>
 
----
-## 📈 Contribution Stats & Analytics
+### Toolkit
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishirajbhagat&theme=radical" width="98%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishirajbhagat&theme=radical" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishirajbhagat&theme=radical" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishirajbhagat&theme=radical" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishirajbhagat&theme=radical&utcOffset=9" width="48%"/>
-
-</div>
-
----
-
-
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="GitHub Streak" /></a>
-  <a href="https://github-readme-streak-stats-sigma-teal.vercel.app/"><img src="https://github-readme-streak-stats-sigma-teal.vercel.app/?user=Rishirajbhagat&theme=github_dark&hide_border=true" alt="GitHub Streak" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,mysql,pytorch,tensorflow,sklearn,opencv,arduino,linux,git&theme=dark" alt="Skills" />
 </p>
 
-<p align="center"> <a href="https://github.com/luv-valecha/github-trophies"><img src="https://github-trophies.vercel.app/?username=Rishirajbhagat&theme=darkhub&row=2&column=4" alt="RishiRajBhagat" /></a> </p>
+<sub>Also: NumPy · SciPy · Matplotlib · MATLAB · VESTA</sub>
+
+<br><br>
+
+### Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishirajbhagat&abbreviated=true&color=brightgreen" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiRajBhagat&bg_color=0B1220&color=94A3B8&title_color=2DD4BF&line=2DD4BF&point=60A5FA&area=true&area_color=2DD4BF&hide_border=true&radius=8&custom_title=Contributions%20over%20the%20last%2031%20days" width="100%" alt="Contribution graph" />
 </p>
 
-### 📬 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishiRajBhagat&show_icons=true&hide_border=true&border_radius=8&bg_color=0B1220&title_color=2DD4BF&icon_color=60A5FA&text_color=CBD5E1&ring_color=2DD4BF&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub%20stats" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRajBhagat&layout=compact&langs_count=6&hide_border=true&border_radius=8&bg_color=0B1220&title_color=2DD4BF&text_color=CBD5E1&custom_title=Languages" height="170" alt="Top languages" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rishi-raj-bhagat-76071628a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:b23mt1034@iitj.ac.in">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RishiRajBhagat&hide_border=true&border_radius=8&background=0B1220&ring=2DD4BF&fire=60A5FA&currStreakLabel=2DD4BF&sideLabels=CBD5E1&currStreakNum=F1F5F9&sideNums=F1F5F9&dates=64748B&stroke=1E293B" width="100%" alt="Contribution streak" />
+</p>
